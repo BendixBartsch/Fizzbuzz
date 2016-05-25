@@ -6,7 +6,7 @@ public class threeorfive {
 		
 		for(int b=0; b<100; b++){
 			
-			if((b%3==0) & (b%5==0)){System.out.println(b+ " Fizz Buzz");			
+			if((b%3==0) & (b%5==0)){System.out.println(b + " Fizz Buzz");			
 			}
 			
 			else if(b%3==0){
